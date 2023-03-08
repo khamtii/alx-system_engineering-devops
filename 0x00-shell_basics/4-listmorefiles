@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $( ls -al ${pwd})
+ ls -al ${pwd}
