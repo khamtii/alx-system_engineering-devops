@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod --reference=olleh hello
+ $(touch olleh ${pwd}) sudo chmod --reference=olleh hello
